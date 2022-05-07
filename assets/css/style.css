@@ -177,7 +177,7 @@ h6 {
   position: relative;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 400;
-  color: #3413B2;
+  color: #3413b2;
   margin: 0px;
   transition: all 500ms ease;
 }
@@ -293,7 +293,7 @@ img {
   color: #fff !important;
   border-radius: 4px;
   text-align: center;
-  background: #3413B2;
+  background: #3413b2;
   padding: 15px 44px;
   text-transform: uppercase;
   z-index: 1;
@@ -358,7 +358,7 @@ img {
   right: 0;
   bottom: 0;
   border-radius: 4px;
-  background: #3413B2;
+  background: #3413b2;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 50% 100%;
@@ -395,7 +395,7 @@ img {
   width: 50px;
   line-height: 50px;
   text-align: center;
-  color: #3413B2;
+  color: #3413b2;
   background: transparent;
   border-radius: 5px;
   border: 1px solid #eae0d9;
@@ -671,7 +671,7 @@ img {
 
 .main-header .header-top .left-info li p span {
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   text-transform: uppercase;
 }
 
@@ -710,7 +710,7 @@ img {
   text-align: center;
   border-radius: 5px;
   font-size: 10px;
-  color: #3413B2;
+  color: #3413b2;
   cursor: pointer;
   z-index: 1;
   margin: 0px 2.5px;
@@ -751,7 +751,7 @@ img {
 }
 
 .main-header .header-top .location-box .apply-btn a:hover {
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .main-header .header-top .right-info .list {
@@ -789,7 +789,7 @@ img {
 }
 
 .main-header .header-top .right-info .social-links li a {
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .main-header .header-top .right-info .social-links li a:hover {
@@ -809,7 +809,7 @@ img {
   position: relative;
   float: left;
   padding: 27px 100px 27px 50px;
-  background: #3413B2;
+  background: #3413b2;
   margin-right: 75px;
   border-bottom-right-radius: 50px;
 }
@@ -859,7 +859,7 @@ img {
   position: relative;
   display: inline-block;
   font-size: 18px;
-  color: #3413B2;
+  color: #3413b2;
   margin-right: 5px;
 }
 
@@ -870,7 +870,7 @@ img {
   font-size: 13px;
   font-weight: 700;
   font-family: "Nunito Sans", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .main-header .language .lang-btn .arrow {
@@ -879,7 +879,7 @@ img {
   vertical-align: middle;
   padding-left: 4px;
   font-size: 14px;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .main-header .language .lang-dropdown {
@@ -887,7 +887,7 @@ img {
   left: 0;
   top: 100%;
   width: 150px;
-  background: #3413B2;
+  background: #3413b2;
   padding: 5px 0px;
   opacity: 0;
   visibility: hidden;
@@ -972,7 +972,7 @@ img {
   font-weight: 700;
   opacity: 1;
   font-family: "Nunito Sans", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
   z-index: 1;
   padding-right: 17px;
   text-transform: uppercase;
@@ -1046,7 +1046,7 @@ img {
   opacity: 0;
   visibility: hidden;
   padding: 10px 0px;
-  background-color: #3413B2;
+  background-color: #3413b2;
   border-radius: 0px 0px 10px 10px;
   -moz-transform: translateY(30px);
   -webkit-transform: translateY(30px);
@@ -1158,7 +1158,7 @@ img {
   z-index: 100;
   display: none;
   padding: 10px 0px;
-  background-color: #3413B2;
+  background-color: #3413b2;
   border-radius: 10px;
   -moz-transform: translateY(30px);
   -webkit-transform: translateY(30px);
@@ -2107,11 +2107,18 @@ div#mCSB_1_container {
   background-repeat: no-repeat;
   background-size: cover;
 }
-
-.bg-color-1 {
-  background: #3413B2;
+section.industries-section.bg-color-1 {
+  background: #f0e6e0;
 }
-
+.bg-color-1 {
+  background: #3413b2;
+}
+figure.logo-box img {
+  max-width: 100px;
+}
+.nav-logo img {
+  max-width: 135px;
+}
 /** clients-section **/
 
 .clients-section {
@@ -2121,7 +2128,7 @@ div#mCSB_1_container {
 .clients-section .clients-logo-box {
   position: relative;
   display: block;
-  background: #3413B2;
+  background: #3413b2;
   padding: 50px 0px;
   border-right: 1px solid rgba(255, 255, 255, 0.2);
   margin-bottom: 28px;
@@ -2194,7 +2201,7 @@ div#mCSB_1_container {
   line-height: 30px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 600;
-  color: #3413B2;
+  color: #3413b2;
   z-index: 1;
 }
 
@@ -2306,7 +2313,7 @@ div#mCSB_1_container {
   left: 20px;
   top: 20px;
   font-size: 30px;
-  color: #3413B2;
+  color: #3413b2;
   transition: all 500ms ease;
 }
 
@@ -2387,7 +2394,7 @@ div#mCSB_1_container {
   line-height: 26px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   text-transform: uppercase;
 }
 
@@ -2444,7 +2451,7 @@ div#mCSB_1_container {
 
 #content_block_2 .content-box .inner-box {
   position: relative;
-  background: #3413B2;
+  background: #3413b2;
   padding: 100px 30px;
 }
 
@@ -2534,7 +2541,7 @@ div#mCSB_1_container {
 #content_block_2 .content-box .inner-box a:before {
   position: absolute;
   content: "";
-  background: #3413B2;
+  background: #3413b2;
   width: 2px;
   height: 100%;
   right: 46px;
@@ -2561,7 +2568,7 @@ div#mCSB_1_container {
   line-height: 26px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   text-transform: uppercase;
 }
 
@@ -2762,7 +2769,7 @@ div#mCSB_1_container {
   font-size: 14px;
   line-height: 26px;
   font-family: "Nunito Sans", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -2771,7 +2778,7 @@ div#mCSB_1_container {
   position: absolute;
   left: 30px;
   top: 30px;
-  background: #3413B2;
+  background: #3413b2;
   border-radius: 10px;
   width: calc(100% - 60px);
   overflow: hidden;
@@ -2942,7 +2949,7 @@ div#mCSB_1_container {
 
 #content_block_4 .content-box .inner-box .single-item .inner h3 a {
   display: inline-block;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 #content_block_4 .content-box .inner-box .single-item .inner h3 a:hover {
@@ -3016,8 +3023,8 @@ div#mCSB_1_container {
 
 .industries-section .sec-title .top-title:after {
   background: #624b52;
-  border-left: 2px solid #3413B2;
-  border-bottom: 2px solid #3413B2;
+  border-left: 2px solid #3413b2;
+  border-bottom: 2px solid #3413b2;
 }
 
 .industries-section .sec-title {
@@ -3102,7 +3109,7 @@ div#mCSB_1_container {
   display: inline-block;
   font-size: 16px;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   width: 62px;
   height: 62px;
   line-height: 62px;
@@ -3298,7 +3305,7 @@ div#mCSB_1_container {
 }
 
 .process-block-one .inner-box .lower-content a:hover {
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .process-block-one .inner-box .icon-box .anim-icon .icon-1 {
@@ -3403,7 +3410,7 @@ div#mCSB_1_container {
   top: 11px;
   right: 11px;
   font-size: 16px;
-  color: #3413B2;
+  color: #3413b2;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
   opacity: 0;
@@ -3447,7 +3454,7 @@ div#mCSB_1_container {
   font-size: 14px;
   line-height: 24px;
   font-family: "Nunito Sans", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -3480,7 +3487,7 @@ div#mCSB_1_container {
 .team-block-one .inner-box .image-box:before {
   position: absolute;
   content: "";
-  background: #3413B2;
+  background: #3413b2;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -3533,7 +3540,7 @@ div#mCSB_1_container {
   right: 0px;
   bottom: 0px;
   background: #f0e6e0;
-  color: #3413B2;
+  color: #3413b2;
   font-size: 14px;
   line-height: 24px;
   font-weight: 400;
@@ -3585,7 +3592,7 @@ div#mCSB_1_container {
   position: relative;
   display: inline-block;
   font-size: 14px;
-  color: #3413B2;
+  color: #3413b2;
   width: 100%;
   height: 36px;
   line-height: 36px;
@@ -3613,7 +3620,7 @@ div#mCSB_1_container {
 
 .team-block-one .inner-box .lower-content h3 a {
   display: inline-block;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .team-block-one .inner-box .lower-content h3 a:hover {
@@ -3734,7 +3741,7 @@ div#mCSB_1_container {
 .news-block-one .inner-box .lower-content .inner {
   position: relative;
   margin-top: -137px;
-  background: #3413B2;
+  background: #3413b2;
   padding: 33px 30px 32px 30px;
   border-radius: 0px 10px 0px 10px;
   z-index: 2;
@@ -3906,7 +3913,7 @@ div#mCSB_1_container {
   height: 60px;
   line-height: 60px;
   text-align: center;
-  background: #3413B2;
+  background: #3413b2;
   border-radius: 0px 10px 0px 30px;
 }
 
@@ -4353,7 +4360,7 @@ div#mCSB_1_container {
 
 .main-header.style-two .header-lower .outer-box {
   position: relative;
-  background: #3413B2;
+  background: #3413b2;
   border-radius: 10px 10px 0px 0px;
 }
 
@@ -4377,7 +4384,7 @@ div#mCSB_1_container {
 }
 
 .main-header.style-two .sticky-header {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 /** banner-style-two **/
@@ -4427,7 +4434,7 @@ div#mCSB_1_container {
 .banner-section.style-two .banner-carousel:before {
   position: absolute;
   content: "";
-  background: #3413B2;
+  background: #3413b2;
   width: 100%;
   height: 560px;
   left: 0px;
@@ -4489,7 +4496,7 @@ div#mCSB_1_container {
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
   background: #fff;
-  color: #3413B2;
+  color: #3413b2;
   text-transform: uppercase;
   padding: 14px 48px;
   text-align: center;
@@ -4575,7 +4582,7 @@ div#mCSB_1_container {
 }
 
 .banner-carousel .btn-box .btn-two:hover {
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .banner-carousel .btn-box a {
@@ -4597,7 +4604,7 @@ div#mCSB_1_container {
   line-height: 60px;
   text-align: center;
   font-size: 14px;
-  color: #3413B2;
+  color: #3413b2;
   background: #fff;
   font-weight: 700;
   text-align: center;
@@ -4641,7 +4648,7 @@ div#mCSB_1_container {
   font-size: 14px;
   line-height: 16px;
   font-weight: 400;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .banner-section .mouse-btn-down .icon-box:before {
@@ -4779,7 +4786,7 @@ div#mCSB_1_container {
   background: #fff;
   border-radius: 50%;
   font-size: 26px;
-  color: #3413B2;
+  color: #3413b2;
   z-index: 1;
 }
 
@@ -4872,7 +4879,7 @@ div#mCSB_1_container {
 .service-style-two .inner-container:before {
   position: absolute;
   content: "";
-  background: #3413B2;
+  background: #3413b2;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -5089,7 +5096,7 @@ div#mCSB_1_container {
 .project-block-one .inner-box .image-box {
   position: relative;
   overflow: hidden;
-  background: #3413B2;
+  background: #3413b2;
   border-radius: 10px;
 }
 
@@ -5219,7 +5226,7 @@ div#mCSB_1_container {
   position: relative;
   display: inline-block;
   font-size: 30px;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 400;
   margin: 0px;
   cursor: pointer;
@@ -5395,7 +5402,7 @@ div#mCSB_1_container {
   display: inline-block;
   font-size: 14px;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   width: 62px;
   height: 62px;
   line-height: 62px;
@@ -5450,7 +5457,7 @@ div#mCSB_1_container {
   display: block;
   font-size: 22px;
   line-height: 30px;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 700;
   transition: all 500ms ease;
 }
@@ -5472,8 +5479,8 @@ div#mCSB_1_container {
 }
 
 .chooseus-section .top-title.light:after {
-  border-bottom: 2px solid #3413B2;
-  border-left: 2px solid #3413B2;
+  border-bottom: 2px solid #3413b2;
+  border-left: 2px solid #3413b2;
 }
 
 .chooseus-section .sec-title p {
@@ -5698,7 +5705,7 @@ div#mCSB_1_container {
   font-weight: 700;
   font-family: "Nunito Sans", sans-serif;
   color: #fff;
-  background: #3413B2;
+  background: #3413b2;
   text-transform: uppercase;
   padding: 14px 30px;
   text-align: center;
@@ -6000,7 +6007,7 @@ div#mCSB_1_container {
   position: relative;
   display: inline-block;
   font-size: 30px;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 400;
   margin: 0px;
   cursor: pointer;
@@ -6081,7 +6088,7 @@ div#mCSB_1_container {
 }
 
 .clients-style-two .title-inner .btn-box a.btn-two {
-  color: #3413B2;
+  color: #3413b2;
   background: #fff;
 }
 
@@ -6328,8 +6335,8 @@ div#mCSB_1_container {
 .nice-select:after {
   width: 8px;
   height: 8px;
-  border-bottom: 2px solid #3413B2;
-  border-right: 2px solid #3413B2;
+  border-bottom: 2px solid #3413b2;
+  border-right: 2px solid #3413b2;
   right: 20px;
 }
 
@@ -6395,7 +6402,7 @@ div#mCSB_1_container {
 }
 
 .main-footer .callback-widget .widget-content .form-group button:after {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .main-footer .callback-widget .pattern-layer .pattern-1 {
@@ -6523,7 +6530,7 @@ div#mCSB_1_container {
 }
 
 .main-header.style-three .sticky-header {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .main-header.style-three .menu-right-content .search-btn button {
@@ -6880,7 +6887,7 @@ div#mCSB_1_container {
 }
 
 .chooseus-section.alternet-2 .chooseus-block-one .inner-box h3 {
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .chooseus-section.alternet-2 .chooseus-block-one .inner-box p {
@@ -6889,7 +6896,7 @@ div#mCSB_1_container {
 }
 
 .chooseus-section.alternet-2 .chooseus-block-one .inner-box a {
-  color: #3413B2;
+  color: #3413b2;
   padding: 0px !important;
 }
 
@@ -6898,7 +6905,7 @@ div#mCSB_1_container {
   margin-right: 8px;
   opacity: 1;
   top: 6px;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .chooseus-section.alternet-2 .chooseus-block-one .inner-box a:hover {
@@ -6984,8 +6991,8 @@ div#mCSB_1_container {
 }
 
 .service-section .sec-title.light .top-title:after {
-  border-left: 2px solid #3413B2;
-  border-bottom: 2px solid #3413B2;
+  border-left: 2px solid #3413b2;
+  border-bottom: 2px solid #3413b2;
 }
 
 .service-section .sec-title.light p {
@@ -7104,7 +7111,7 @@ div#mCSB_1_container {
 
 .process-style-two .single-item .inner-box h3 a {
   display: inline-block;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .process-style-two .single-item .inner-box h3 a:hover {
@@ -7123,7 +7130,7 @@ div#mCSB_1_container {
   font-family: "Nunito Sans", sans-serif;
   line-height: 24px;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   text-transform: uppercase;
 }
 
@@ -7228,7 +7235,7 @@ div#mCSB_1_container {
   font-weight: 700;
   font-family: "Nunito Sans", sans-serif;
   color: #fff;
-  background: #3413B2;
+  background: #3413b2;
   text-transform: uppercase;
   padding: 14px 58px;
   text-align: center;
@@ -7250,7 +7257,7 @@ div#mCSB_1_container {
   font-size: 18px;
   line-height: 28px;
   font-family: "Muli", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 500;
   margin-bottom: 18px;
   padding-left: 34px;
@@ -7299,8 +7306,8 @@ div#mCSB_1_container {
 }
 
 .team-style-two .sec-title .top-title:after {
-  border-left: 2px solid #3413B2;
-  border-bottom: 2px solid #3413B2;
+  border-left: 2px solid #3413b2;
+  border-bottom: 2px solid #3413b2;
 }
 
 .team-style-two .owl-dots {
@@ -7333,9 +7340,9 @@ div#mCSB_1_container {
 
 .project-style-two .more-text p a {
   display: inline-block;
-  color: #3413B2;
+  color: #3413b2;
   line-height: 30px;
-  border-bottom: 1px solid #3413B2;
+  border-bottom: 1px solid #3413b2;
 }
 
 .project-style-two .more-text p a:hover {
@@ -7463,7 +7470,7 @@ div#mCSB_1_container {
   line-height: 24px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   text-transform: uppercase;
   z-index: 1;
 }
@@ -7807,11 +7814,11 @@ div#mCSB_1_container {
 }
 
 .process-style-two.alternet-2:before {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .process-style-two.alternet-2 .inner-container {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .process-style-two.alternet-2 .sec-title .top-title:before,
@@ -7820,8 +7827,8 @@ div#mCSB_1_container {
 }
 
 .process-style-two.alternet-2 .sec-title .top-title:after {
-  border-left: 2px solid #3413B2;
-  border-bottom: 2px solid #3413B2;
+  border-left: 2px solid #3413b2;
+  border-bottom: 2px solid #3413b2;
 }
 
 .process-style-two.alternet-2 .single-item .inner-box h3 a {
@@ -8261,7 +8268,7 @@ div#mCSB_1_container {
   display: inline-block;
   font-size: 14px;
   font-family: "Nunito Sans", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -8323,7 +8330,7 @@ div#mCSB_1_container {
   left: 0px;
   bottom: 0px;
   width: 100%;
-  background: #3413B2;
+  background: #3413b2;
   padding: 25px 30px 25px 30px;
   border-top-left-radius: 10px;
   font-size: 22px;
@@ -8494,7 +8501,7 @@ div#mCSB_1_container {
   position: absolute;
   display: inline-block;
   background: #fff;
-  color: #3413B2;
+  color: #3413b2;
   width: 58px;
   height: 58px;
   line-height: 58px;
@@ -8543,7 +8550,7 @@ div#mCSB_1_container {
 .growth-section:before {
   position: absolute;
   content: "";
-  background: #3413B2;
+  background: #3413b2;
   width: 100%;
   height: 625px;
   left: 0px;
@@ -8557,8 +8564,8 @@ div#mCSB_1_container {
 }
 
 .growth-section .sec-title .top-title:after {
-  border-left: 2px solid #3413B2;
-  border-bottom: 2px solid #3413B2;
+  border-left: 2px solid #3413b2;
+  border-bottom: 2px solid #3413b2;
 }
 
 .growth-section .image-box {
@@ -8786,7 +8793,7 @@ div#mCSB_1_container {
   position: absolute;
   content: "+";
   font-size: 24px;
-  color: #3413B2;
+  color: #3413b2;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 600;
   width: 60px;
@@ -8828,7 +8835,7 @@ div#mCSB_1_container {
 }
 
 .accordion-box .block .acc-btn.active {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .accordion-box .block .acc-btn h5 {
@@ -8963,7 +8970,7 @@ div#mCSB_1_container {
   border-radius: 50%;
   font-size: 30px;
   font-weight: 400;
-  color: #3413B2;
+  color: #3413b2;
   background: #fff;
   cursor: pointer;
   transition: all 500ms ease;
@@ -9077,7 +9084,7 @@ div#mCSB_1_container {
 }
 
 .hiring-section .left-column {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .hiring-section .right-column {
@@ -9124,7 +9131,7 @@ div#mCSB_1_container {
   line-height: 26px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   border-radius: 4px;
   text-align: center;
   background: #fff;
@@ -9356,7 +9363,7 @@ div#mCSB_1_container {
   display: inline-block;
   font-size: 30px;
   font-weight: 400;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .service-details-content
@@ -9377,7 +9384,7 @@ div#mCSB_1_container {
   position: absolute;
   left: 0px;
   top: 30px;
-  background: #3413B2;
+  background: #3413b2;
   width: 100%;
   padding: 33px 40px 32px 30px;
   border-radius: 10px 0px 10px 10px;
@@ -9557,7 +9564,7 @@ div#mCSB_1_container {
 .service-details-content .content-three .tab-btns li.active-btn:before {
   position: absolute;
   content: "";
-  background: #3413B2;
+  background: #3413b2;
   width: 30px;
   height: 30px;
   top: 50%;
@@ -9567,7 +9574,7 @@ div#mCSB_1_container {
 }
 
 .service-details-content .content-three .tab-btns li.active-btn {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .service-details-content .content-three .tab-btns li:last-child {
@@ -9627,7 +9634,7 @@ div#mCSB_1_container {
   bottom: 0px;
   width: calc(100% - 30px);
   border-top-right-radius: 10px;
-  background: #3413B2;
+  background: #3413b2;
   padding: 34px 30px 32px 30px;
 }
 
@@ -9694,7 +9701,7 @@ div#mCSB_1_container {
 }
 
 .service-details-content .content-four .inner-box .list-item li:hover {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .service-details-content .content-four .inner-box .list-item li:last-child {
@@ -9868,7 +9875,7 @@ div#mCSB_1_container {
   width: calc(100% - 60px);
   padding: 26px 40px 21px 30px;
   border-top-right-radius: 10px;
-  background: #3413B2;
+  background: #3413b2;
   opacity: 0;
   transition: all 500ms ease;
 }
@@ -9940,7 +9947,7 @@ div#mCSB_1_container {
   position: relative;
   display: inline-block;
   font-size: 30px;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 400;
   margin: 0px;
   cursor: pointer;
@@ -9970,7 +9977,7 @@ div#mCSB_1_container {
   font-size: 20px;
   line-height: 28px;
   font-family: "Nunito Sans", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 700;
   padding: 24px 30px 22px 30px;
   border-bottom: 1px solid #fff;
@@ -9978,7 +9985,7 @@ div#mCSB_1_container {
 
 .service-sidebar .categories-widget .categories-list li a.active,
 .service-sidebar .categories-widget .categories-list li a:hover {
-  background: #3413B2;
+  background: #3413b2;
   color: #fff;
 }
 
@@ -10036,7 +10043,7 @@ div#mCSB_1_container {
 
 .service-sidebar .recruitment-widget .widget-content .text {
   position: relative;
-  background: #3413B2;
+  background: #3413b2;
   padding: 43px 130px 42px 30px;
   min-height: 181px;
 }
@@ -10076,7 +10083,7 @@ div#mCSB_1_container {
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .service-sidebar .recruitment-widget .widget-content .link a i {
@@ -10119,7 +10126,7 @@ div#mCSB_1_container {
   line-height: 26px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   margin-bottom: 13px;
 }
 
@@ -10283,7 +10290,7 @@ div#mCSB_1_container {
 }
 
 .single-job-post:hover .job-header {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .single-job-post .job-header .info li {
@@ -10440,7 +10447,7 @@ div#mCSB_1_container {
   font-size: 14px;
   line-height: 20px;
   font-family: "Nunito Sans", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 700;
   text-transform: uppercase;
   border: 1px solid #eae0d9;
@@ -10554,7 +10561,7 @@ div#mCSB_1_container {
   font-size: 12px;
   line-height: 40px;
   font-family: "Nunito Sans", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 700;
   text-transform: uppercase;
   background: #fff;
@@ -10602,7 +10609,7 @@ div#mCSB_1_container {
 }
 
 .job-details-content .upper-box .inner-box .info li a:hover {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .job-details-content h2 {
@@ -10807,7 +10814,7 @@ div#mCSB_1_container {
 .job-sidebar .support-widget .widget-content {
   position: relative;
   display: block;
-  background: #3413B2;
+  background: #3413b2;
   padding: 40px 30px;
   border-radius: 10px;
   overflow: hidden;
@@ -10874,7 +10881,7 @@ div#mCSB_1_container {
   position: relative;
   display: inline-block;
   font-size: 14px;
-  color: #3413B2;
+  color: #3413b2;
   background: #fff;
   width: 42px;
   height: 42px;
@@ -11074,7 +11081,7 @@ div#mCSB_1_container {
   font-size: 14px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   text-transform: uppercase;
 }
 
@@ -11116,7 +11123,7 @@ div#mCSB_1_container {
 }
 
 .pricing-section.overview-page-2 .pricing-block-one.popular .inner-box {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .pricing-section.overview-page-2 .pricing-block-one.popular .inner-box h3 {
@@ -11158,7 +11165,7 @@ div#mCSB_1_container {
   line-height: 26px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   border-radius: 4px;
   text-align: center;
   padding: 14px 42px;
@@ -11200,7 +11207,7 @@ div#mCSB_1_container {
   width: 44px;
   height: 44px;
   line-height: 44px;
-  background: #3413B2;
+  background: #3413b2;
   text-align: center;
   font-size: 16px;
   font-weight: 600;
@@ -11281,7 +11288,7 @@ div#mCSB_1_container {
   font-family: "Muli", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .blog-sidebar .categories-widget .widget-content .list li a:before {
@@ -11386,7 +11393,7 @@ div#mCSB_1_container {
 
 .blog-sidebar .post-widget .widget-content .post h5 a {
   display: inline-block;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .blog-sidebar .post-widget .widget-content .post h5 a:hover {
@@ -11421,8 +11428,8 @@ div#mCSB_1_container {
 }
 
 .blog-sidebar .sidebar-tags .tags-list li a:hover {
-  background: #3413B2;
-  border-color: #3413B2;
+  background: #3413b2;
+  border-color: #3413b2;
   color: #fff;
 }
 
@@ -11513,7 +11520,7 @@ div#mCSB_1_container {
   font-size: 14px;
   line-height: 20px;
   font-family: "Nunito Sans", sans-serif;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 700;
   text-transform: uppercase;
   background: #fff;
@@ -11750,7 +11757,7 @@ div#mCSB_1_container {
   position: relative;
   display: inline-block;
   font-size: 16px;
-  color: #3413B2;
+  color: #3413b2;
   width: 35px;
   height: 40px;
   line-height: 40px;
@@ -11814,7 +11821,7 @@ div#mCSB_1_container {
   display: inline-block;
   font-size: 10px;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   background: #fff;
   width: 40px;
   height: 40px;
@@ -12008,7 +12015,7 @@ div#mCSB_1_container {
 .blog-details-content .inner-box .two-column .content-box:before {
   position: absolute;
   content: "";
-  background: #3413B2;
+  background: #3413b2;
   width: 100%;
   height: 100%;
   left: 0px;
@@ -12158,8 +12165,8 @@ div#mCSB_1_container {
 
 .blog-details-content .post-share-option .tag-list li a:hover {
   color: #fff;
-  background: #3413B2;
-  border-color: #3413B2;
+  background: #3413b2;
+  border-color: #3413b2;
 }
 
 .blog-details-content .post-share-option .tag-list {
@@ -12194,7 +12201,7 @@ div#mCSB_1_container {
   line-height: 60px;
   background: #fff;
   font-size: 24px;
-  color: #3413B2;
+  color: #3413b2;
   text-align: center;
   border-radius: 50%;
   box-shadow: 0 0px 30px rgba(0, 0, 0, 0.15);
@@ -12277,7 +12284,7 @@ div#mCSB_1_container {
   position: relative;
   display: inline-block;
   font-size: 14px;
-  color: #3413B2;
+  color: #3413b2;
   width: 42px;
   height: 42px;
   line-height: 42px;
@@ -12506,7 +12513,7 @@ div#mCSB_1_container {
 }
 
 .blog-details-content .comment-box .comment .comment-inner .reply-btn:hover {
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .blog-details-content .comments-form-area {
@@ -12612,7 +12619,7 @@ div#mCSB_1_container {
   line-height: 26px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   border-radius: 4px;
   text-align: center;
   padding: 14px 42px;
@@ -12655,7 +12662,7 @@ div#mCSB_1_container {
   line-height: 24px;
   font-family: "Nunito Sans", sans-serif;
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
   text-transform: uppercase;
   margin: 0px 17px;
   cursor: pointer;
@@ -12801,7 +12808,7 @@ div#mCSB_1_container {
 
 .contact-page-section #content_block_6 .content-box .sec-title p span {
   font-weight: 700;
-  color: #3413B2;
+  color: #3413b2;
 }
 
 .contact-page-section #content_block_6 .content-box .sec-title {
@@ -12867,7 +12874,7 @@ div#mCSB_1_container {
 }
 
 .locations-section .single-item .inner-box .info-list li:hover i {
-  background: #3413B2;
+  background: #3413b2;
 }
 
 .locations-section .single-item .inner-box .info-list li p {
@@ -12875,7 +12882,7 @@ div#mCSB_1_container {
   display: block;
   font-size: 17px;
   line-height: 28px;
-  color: #3413B2;
+  color: #3413b2;
   font-weight: 700;
   margin-bottom: 0px;
 }
