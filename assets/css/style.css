@@ -2123,6 +2123,11 @@ figure.logo-box img {
   max-width: 150px;
   height: 50px;
 }
+figure.clients-logo-box img {
+  width: 80% !important;
+  height: 80px;
+  object-fit: contain;
+}
 /** clients-section **/
 
 .clients-section {
