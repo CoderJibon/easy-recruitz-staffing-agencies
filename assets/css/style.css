@@ -432,7 +432,7 @@ img {
   font-family: "Nunito Sans", sans-serif;
   z-index: 99;
   color: #ffffff;
-  background: #3e252d;
+  background: #3413b2;
   border-radius: 5px;
   text-align: center;
   cursor: pointer;
@@ -2107,17 +2107,17 @@ div#mCSB_1_container {
   background-repeat: no-repeat;
   background-size: cover;
 }
-section.industries-section.bg-color-1 {
+/* section.industries-section.bg-color-1 {
   background: #f0e6e0;
-}
+} */
 .bg-color-1 {
   background: #3413b2;
 }
 figure.logo-box img {
-  max-width: 100px;
+  max-width: 150px;
 }
 .nav-logo img {
-  max-width: 135px;
+  max-width: 150px;
 }
 /** clients-section **/
 
