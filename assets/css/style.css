@@ -2117,9 +2117,11 @@ div#mCSB_1_container {
 }
 figure.logo-box img {
   max-width: 150px;
+  height: 50px;
 }
 .nav-logo img {
   max-width: 150px;
+  height: 50px;
 }
 /** clients-section **/
 
