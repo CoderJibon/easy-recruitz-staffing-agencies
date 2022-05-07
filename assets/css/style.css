@@ -419,7 +419,9 @@ img {
 .sec-pad-2 {
   padding: 130px 0px !important;
 }
-
+.footer-widget.about-widget a {
+  color: #ae979f;
+}
 .scroll-top {
   width: 50px;
   height: 120px;
